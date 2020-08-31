@@ -1,0 +1,19 @@
+header {
+	text-align:center;
+	padding: 3px;
+	background-color:black;
+	color:white;
+}
+
+table#headerTable {
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+footer {
+	text-align:center;
+	padding:3px;
+	background-color:black;
+	color:white;
+}
